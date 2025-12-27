@@ -1,0 +1,18 @@
+[submodule "suprenia"]
+	path = suprenia
+	url = git@github.com:Abdssamie/suprenia.git
+[submodule "chemsprint"]
+	path = chemsprint
+	url = git@github.com:Abdssamie/chemsprint.git
+[submodule "proceevo"]
+	path = proceevo
+	url = git@github.com:Abdssamie/proceevo.git
+[submodule "effichem"]
+	path = effichem
+	url = git@github.com:Abdssamie/effichem.git
+[submodule "enerflow"]
+	path = enerflow
+	url = git@github.com:Abdssamie/enerflow.git
+[submodule "operations-hub"]
+	path = operations-hub
+	url = git@github.com:Abdssamie/operations-hub.git
